@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 40px;
+    border: 1px solid black;
+    height: 100vh;
+
+}
+.input-text{
+    width: 220px;
+    height: 45px;
+    border: 3px solid black;
+}
+.text{
+    font-size: 45px;
+    color: aquamarine;
+    margin-top: 50%;
+}
+
+#front{
+    border: 1px solid black;
+    padding: 30px
+
+}
+
+#back{
+    border: 1px solid black;
+    padding: 30px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+    gap: 20px;
+}
+.inside-body{
+    display: flex;
+    flex-direction: row;
+}
+
+.img-cr{
+    border-radius: 50%;
+    width: 245px;
+    height: 245px;
+    border: 1px solid black;
+}
+
+.img-vr{
+    width: 200px;
+    height: 265px;
+
+}
+
+.btn-pick{
+    float: right;
+}
