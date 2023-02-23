@@ -42,8 +42,8 @@ This section covers the basics of Github and Github Education, including version
 
 # JavaScript Material
   ### [JavaScript Course by Hitesh Choudhary ](https://www.youtube.com/watch?v=2md4HQNRqJA&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD) 
-  ### [JavaScript Beginner Course by Microsoft ] (https://www.youtube.com/watch?v=_EDM5aPVLmo&list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
-  ### [Typescript Course by Hitesh Choudhary] (https://www.youtube.com/watch?v=j89BvWz8Eag&list=PLRAV69dS1uWRPSfKzwZsIm-Axxq-LxqhW)
+  ### [JavaScript Beginner Course by Microsoft ](https://www.youtube.com/watch?v=_EDM5aPVLmo&list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
+  ### [Typescript Course by Hitesh Choudhary](https://www.youtube.com/watch?v=j89BvWz8Eag&list=PLRAV69dS1uWRPSfKzwZsIm-Axxq-LxqhW)
 
 # MARN Stack 
  ### [MARN Stack Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4&list=PL-_H2DG20qn6mhT1WLGzy-VCiTLQJd-ho)
