@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    margin: 20px;
+
+}
+
+#root div {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+#root{
+    background-color: #e1a2a2;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    padding: 20px;
+    flex-direction:column;
+}
+
+#root input{
+    height: 30px;
+    width: 210px;
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 0px 0px 0px 10px; 
+
+}
