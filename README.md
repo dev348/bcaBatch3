@@ -35,4 +35,6 @@ This section covers the basics of MongoDB, including collections, documents, and
 ## Github and Github Education
 This section covers the basics of Github and Github Education, including version control, pull requests, and repositories. See the [Github slide](link to slide) for more information.
 
+## [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
 Feel free to use these materials for your own learning purposes. Good luck!
