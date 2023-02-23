@@ -1,20 +1,27 @@
 h1{
     color: red;
 }
+
+body{
+    font-family:'Courier New', Courier, monospace;
+    
+}
 #ab1{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    border: 2px solid black;
     background-color: #DCD8CD;
     height: 200px;
+    padding: 30px;
 }   
 #ab1 #img{
     margin-top: 80px;
     border-radius: 50%;
-    height: 206px;
+    height: 200px;
     width: 200px;
-    background: url("./JavaScript-logo.png");
+    background-image: url("unnamed.webp");
+    background-position: center;
+
 }
 .title{
     text-align: center;
@@ -22,7 +29,6 @@ h1{
 }
 
 #ab2{
-    border: 2px solid black;
     display: flex;
     flex-direction: row;
     height: 600px;
@@ -31,7 +37,7 @@ h1{
 
 
 #bc1 , #bc2{
-    border: 2px solid black;
     height: 500px;
     width: 50%;
+    padding: 30px;
 }
