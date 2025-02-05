@@ -11,7 +11,7 @@ This repository contains materials from the Full Stack Web Development Course, w
 - Github and Github Education
 
 ## HTML
-This section covers the basics of HTML, including tags, attributes, and document structure. See the [HTML slide](https://www.canva.com/design/DAFa7oaFChQ/v_as9FMwGtMO0xTAFVYflg/view?utm_content=DAFa7oaFChQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) for more information.
+This section covers the basics of HTML, including tags, attributes, and document structure. See the [HTML slide](https://www.canva.com/design/DAFbBLvY1_4/6g12Nq6q4uSVT_Y0xm4W_A/view?utm_content=DAFbBLvY1_4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h96e98695a1) for more information.
 
 ## CSS
 This section covers the basics of CSS, including selectors, properties, and values. See the [CSS slide](https://www.canva.com/design/DAFbBA0A5ws/_n18ByJDX1yZsRc-QS2GCQ/view?utm_content=DAFbBA0A5ws&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
